@@ -3,8 +3,8 @@ I'm Backend Dev, 23 years old, now I live in Georgia Tbilisi, and I really love 
 
 
 ### You can find me
-![Tux, the Linux mascot](/assets/images/tux.png)
-<img alt="Tux, the Linux mascot" src="/icons/Logo.png"/>
+![<img alt="Telegram icon" height="16" src="/icons/telegram.png" width="16"/> Telegram](https://t.![img.png](img.png)me/kuper73)
+![<img alt="LinkedIn icon" height="16" src="/icons/linkedin.png" width="16"/> Telegram](https://www.linkedin.com/in/malikovasman)
 ### Interested in
 
 
