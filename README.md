@@ -1,25 +1,30 @@
 ## About me 👋
-I'm Backend Dev, 23 years old, now I live in Georgia Tbilisi, and I really love what I do.
+I'm Backend Dev, 23+ years old, now I live in Georgia Tbilisi, and I really love what I do.
 
 
-### You can find me
-![<img alt="Telegram icon" height="16" src="/icons/telegram.png" width="16"/> Telegram](https://t.![img.png](img.png)me/kuper73)
-![<img alt="LinkedIn icon" height="16" src="/icons/linkedin.png" width="16"/> Telegram](https://www.linkedin.com/in/malikovasman)
-### Interested in
+### You can find me 🔍
+ - [<img alt="Telegram icon" height="16" src="/icons/telegram.png" width="16"/> Telegram](https://t.![img.png](img.png)me/kuper73)
+ - [<img alt="LinkedIn icon" height="16" src="/icons/linkedin.png" width="16"/> LinkedIn](https://www.linkedin.com/in/malikov73)
 
 
+### Interested in 🌚
+ - (micro)service design and development
+ - complex system (CRM/ERM/CMS)
+ - quality api
+ - building an effective team
 
-<!--
-**malikov73/malikov73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stack 🛠
+ - 🐍 Python3 
+ - FastApi 
+ - Django, DRF 
+ - Flask
+ - Swagger 
+ - SQLAlchemy 
+ - Docker, docker-compose, swarm
+ - PostgreSQL
+ - Redis 
+ - Traefik
+ - Nginx
+ - Kafka (a little)
+ - Golang (a little)
