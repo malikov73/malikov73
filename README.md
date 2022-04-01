@@ -4,6 +4,7 @@ I'm Backend Dev, 23 years old, now I live in Georgia Tbilisi, and I really love 
 
 ### You can find me
 ![Tux, the Linux mascot](/assets/images/tux.png)
+<img alt="Tux, the Linux mascot" src="/icons/Logo.png"/>
 ### Interested in
 
 
