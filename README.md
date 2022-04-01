@@ -1,4 +1,12 @@
-### Hi there 👋
+## About me 👋
+I'm Backend Dev, 23 years old, now I live in Georgia Tbilisi, and I really love what I do.
+
+
+### You can find me
+![Tux, the Linux mascot](/assets/images/tux.png)
+### Interested in
+
+
 
 <!--
 **malikov73/malikov73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
