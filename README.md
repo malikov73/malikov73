@@ -1,12 +1,11 @@
 # Hey, I'm Asman 👋
 
-**Senior backend engineer & technical lead** based in Cape Town, working remotely.
+**Senior backend engineer & technical lead.**
 
 I build systems where failures are expected and correctness still matters: payments, distributed backends, data-intensive platforms, and developer tooling. Most days that means Go or Python; increasingly, it also means practical AI workflows that help engineering teams move faster.
 
 - Leading a backend team of 4 at Korvax
 - 6+ years in production backend engineering
-- Open to senior backend / platform work in fintech, crypto, and AI-native products
 
 ## What I care about
 
